@@ -124,7 +124,7 @@ header img {
 @media screen and (min-width: 68rem) {
     body {
         background-image: url(../images/bg-desktop.svg);
-        font-size: var(--fs-body-des);
+        /* font-size: var(--fs-body-des); */
     }
 
     header img {
@@ -155,8 +155,8 @@ header img {
 
     .content-details h1 {
         font-weight: var(--fw-bold);
-        font-size: var(--fs-headings);
-        font-size: var(--fs-headings-des);
+        /* font-size: var(--fs-headings);
+        font-size: var(--fs-headings-des); */
     }
 
     .social {
