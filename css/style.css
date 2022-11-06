@@ -9,12 +9,9 @@
     --fw-regular: 400;
     --fw-semibold: 600;
     --fw-bold: 700;
-    --fw-extrabold: 800;
 
     --fs-headings-mob: 1.6rem;
-    --fs-headings-des: 2rem;
     --fs-body-mob: 1rem;
-    --fs-body-des: 1.2rem;
 }
 
 body {
@@ -124,7 +121,6 @@ header img {
 @media screen and (min-width: 68rem) {
     body {
         background-image: url(../images/bg-desktop.svg);
-        /* font-size: var(--fs-body-des); */
     }
 
     header img {
@@ -155,8 +151,6 @@ header img {
 
     .content-details h1 {
         font-weight: var(--fw-bold);
-        /* font-size: var(--fs-headings);
-        font-size: var(--fs-headings-des); */
     }
 
     .social {

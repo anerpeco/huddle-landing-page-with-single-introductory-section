@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/anerpeco/huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://huddle-landing-page-with-single-introductory-section-anerpeco.vercel.app/)
 
 ## My process
 
