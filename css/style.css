@@ -121,7 +121,7 @@ header img {
     text-decoration: none;
 }
 
-@media screen and (min-width: 81rem) {
+@media screen and (min-width: 68rem) {
     body {
         background-image: url(../images/bg-desktop.svg);
         font-size: var(--fs-body-des);
